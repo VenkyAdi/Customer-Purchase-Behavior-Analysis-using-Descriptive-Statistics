@@ -1,9 +1,5 @@
 # Customer-Purchase-Behavior-Analysis-using-Descriptive-Statistics
 
-Certainly! Here's a description for your GitHub repository focusing on Customer Purchase Behavior Analysis using Descriptive Statistics:
-
----
-
 ## Customer Purchase Behavior Analysis using Descriptive Statistics
 
 ### Overview:
