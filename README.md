@@ -25,7 +25,7 @@ This repository hosts a comprehensive analysis of customer purchase behavior uti
 
 ### Usage:
 1. Clone the repository to your local machine.
-2. Install the required dependencies listed in the `requirements.txt` file.
+2. Install the required dependencies listed in the `notebook` file.
 3. Explore the Jupyter notebooks to understand the analysis workflow.
 4. Execute the notebooks sequentially to replicate the analysis or modify them to suit your specific use case.
 5. Utilize the insights gained from the analysis to optimize business strategies and enhance customer satisfaction.
@@ -33,8 +33,6 @@ This repository hosts a comprehensive analysis of customer purchase behavior uti
 ### Contributions:
 Contributions to this repository, such as bug fixes, additional analysis techniques, or improvements to documentation, are welcome. Please fork the repository, make your changes, and submit a pull request outlining the proposed modifications.
 
-### License:
-This project is licensed under the [MIT License](LICENSE), granting permission for unrestricted use, modification, and distribution.
 
 ### Disclaimer:
 While efforts have been made to ensure the accuracy and reliability of the analysis presented in this repository, users are encouraged to verify the findings independently before making any business decisions based on the results.
